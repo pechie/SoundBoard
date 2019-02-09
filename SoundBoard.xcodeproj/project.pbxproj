@@ -9,19 +9,45 @@
 /* Begin PBXBuildFile section */
 		C97FFC8E21FCD65C00B70F20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97FFC8D21FCD65C00B70F20 /* AppDelegate.swift */; };
 		C97FFC9021FCD65C00B70F20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97FFC8F21FCD65C00B70F20 /* ViewController.swift */; };
-		C97FFC9321FCD65C00B70F20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C97FFC9121FCD65C00B70F20 /* Main.storyboard */; };
 		C97FFC9521FCD65F00B70F20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C97FFC9421FCD65F00B70F20 /* Assets.xcassets */; };
-		C97FFC9821FCD65F00B70F20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C97FFC9621FCD65F00B70F20 /* LaunchScreen.storyboard */; };
+		C97FFCA021FD148B00B70F20 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C97FFC9F21FD148B00B70F20 /* Default-568h@2x.png */; };
+		C97FFD13220F78D600B70F20 /* Fraud.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD12220F78D600B70F20 /* Fraud.mp3 */; };
+		C97FFD16220F78E500B70F20 /* Happy Birthday.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD14220F78E400B70F20 /* Happy Birthday.mp3 */; };
+		C97FFD17220F78E500B70F20 /* Hakeem Nicks Laugh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD15220F78E500B70F20 /* Hakeem Nicks Laugh.mp3 */; };
+		C97FFD19220F78EC00B70F20 /* He's That Guy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD18220F78EC00B70F20 /* He's That Guy.mp3 */; };
+		C97FFD1B220F78F300B70F20 /* I Eat Butt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD1A220F78F300B70F20 /* I Eat Butt.mp3 */; };
+		C97FFD1D220F78FA00B70F20 /* It's Friday.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD1C220F78FA00B70F20 /* It's Friday.mp3 */; };
+		C97FFD1F220F790000B70F20 /* Llama There Goes That Man.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD1E220F790000B70F20 /* Llama There Goes That Man.mp3 */; };
+		C97FFD21220F790800B70F20 /* Mark Jackson Llama.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD20220F790800B70F20 /* Mark Jackson Llama.mp3 */; };
+		C97FFD24220F791400B70F20 /* Stat Of The Day.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD22220F791400B70F20 /* Stat Of The Day.mp3 */; };
+		C97FFD25220F791400B70F20 /* Stephen A Yell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD23220F791400B70F20 /* Stephen A Yell.mp3 */; };
+		C97FFD27220F791A00B70F20 /* Open Up The Club.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD26220F791A00B70F20 /* Open Up The Club.mp3 */; };
+		C97FFD2A220F792300B70F20 /* Yo Chicken Time.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD28220F792300B70F20 /* Yo Chicken Time.mp3 */; };
+		C97FFD2B220F792300B70F20 /* You Don't Get The Show.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD29220F792300B70F20 /* You Don't Get The Show.mp3 */; };
+		C97FFD2D220F79B100B70F20 /* Stugotz Was Right.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C97FFD2C220F79B100B70F20 /* Stugotz Was Right.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C97FFC8A21FCD65C00B70F20 /* SoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C97FFC8D21FCD65C00B70F20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C97FFC8F21FCD65C00B70F20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C97FFC9221FCD65C00B70F20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C97FFC9421FCD65F00B70F20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C97FFC9721FCD65F00B70F20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C97FFC9921FCD65F00B70F20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C97FFC9F21FD148B00B70F20 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		C97FFD12220F78D600B70F20 /* Fraud.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fraud.mp3; sourceTree = "<group>"; };
+		C97FFD14220F78E400B70F20 /* Happy Birthday.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Happy Birthday.mp3"; sourceTree = "<group>"; };
+		C97FFD15220F78E500B70F20 /* Hakeem Nicks Laugh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hakeem Nicks Laugh.mp3"; sourceTree = "<group>"; };
+		C97FFD18220F78EC00B70F20 /* He's That Guy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "He's That Guy.mp3"; sourceTree = "<group>"; };
+		C97FFD1A220F78F300B70F20 /* I Eat Butt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I Eat Butt.mp3"; sourceTree = "<group>"; };
+		C97FFD1C220F78FA00B70F20 /* It's Friday.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "It's Friday.mp3"; sourceTree = "<group>"; };
+		C97FFD1E220F790000B70F20 /* Llama There Goes That Man.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Llama There Goes That Man.mp3"; sourceTree = "<group>"; };
+		C97FFD20220F790800B70F20 /* Mark Jackson Llama.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mark Jackson Llama.mp3"; sourceTree = "<group>"; };
+		C97FFD22220F791400B70F20 /* Stat Of The Day.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stat Of The Day.mp3"; sourceTree = "<group>"; };
+		C97FFD23220F791400B70F20 /* Stephen A Yell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stephen A Yell.mp3"; sourceTree = "<group>"; };
+		C97FFD26220F791A00B70F20 /* Open Up The Club.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Open Up The Club.mp3"; sourceTree = "<group>"; };
+		C97FFD28220F792300B70F20 /* Yo Chicken Time.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yo Chicken Time.mp3"; sourceTree = "<group>"; };
+		C97FFD29220F792300B70F20 /* You Don't Get The Show.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "You Don't Get The Show.mp3"; sourceTree = "<group>"; };
+		C97FFD2C220F79B100B70F20 /* Stugotz Was Right.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stugotz Was Right.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +64,7 @@
 		C97FFC8121FCD65C00B70F20 = {
 			isa = PBXGroup;
 			children = (
+				C97FFC9F21FD148B00B70F20 /* Default-568h@2x.png */,
 				C97FFC8C21FCD65C00B70F20 /* SoundBoard */,
 				C97FFC8B21FCD65C00B70F20 /* Products */,
 			);
@@ -54,14 +81,34 @@
 		C97FFC8C21FCD65C00B70F20 /* SoundBoard */ = {
 			isa = PBXGroup;
 			children = (
+				C97FFCA1220F766C00B70F20 /* Sounds */,
 				C97FFC8D21FCD65C00B70F20 /* AppDelegate.swift */,
 				C97FFC8F21FCD65C00B70F20 /* ViewController.swift */,
-				C97FFC9121FCD65C00B70F20 /* Main.storyboard */,
 				C97FFC9421FCD65F00B70F20 /* Assets.xcassets */,
-				C97FFC9621FCD65F00B70F20 /* LaunchScreen.storyboard */,
 				C97FFC9921FCD65F00B70F20 /* Info.plist */,
 			);
 			path = SoundBoard;
+			sourceTree = "<group>";
+		};
+		C97FFCA1220F766C00B70F20 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C97FFD12220F78D600B70F20 /* Fraud.mp3 */,
+				C97FFD15220F78E500B70F20 /* Hakeem Nicks Laugh.mp3 */,
+				C97FFD14220F78E400B70F20 /* Happy Birthday.mp3 */,
+				C97FFD18220F78EC00B70F20 /* He's That Guy.mp3 */,
+				C97FFD1A220F78F300B70F20 /* I Eat Butt.mp3 */,
+				C97FFD1C220F78FA00B70F20 /* It's Friday.mp3 */,
+				C97FFD1E220F790000B70F20 /* Llama There Goes That Man.mp3 */,
+				C97FFD20220F790800B70F20 /* Mark Jackson Llama.mp3 */,
+				C97FFD26220F791A00B70F20 /* Open Up The Club.mp3 */,
+				C97FFD22220F791400B70F20 /* Stat Of The Day.mp3 */,
+				C97FFD2C220F79B100B70F20 /* Stugotz Was Right.mp3 */,
+				C97FFD23220F791400B70F20 /* Stephen A Yell.mp3 */,
+				C97FFD28220F792300B70F20 /* Yo Chicken Time.mp3 */,
+				C97FFD29220F792300B70F20 /* You Don't Get The Show.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +169,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C97FFC9821FCD65F00B70F20 /* LaunchScreen.storyboard in Resources */,
+				C97FFD13220F78D600B70F20 /* Fraud.mp3 in Resources */,
+				C97FFD1B220F78F300B70F20 /* I Eat Butt.mp3 in Resources */,
+				C97FFD17220F78E500B70F20 /* Hakeem Nicks Laugh.mp3 in Resources */,
+				C97FFD2A220F792300B70F20 /* Yo Chicken Time.mp3 in Resources */,
+				C97FFD1D220F78FA00B70F20 /* It's Friday.mp3 in Resources */,
+				C97FFD1F220F790000B70F20 /* Llama There Goes That Man.mp3 in Resources */,
+				C97FFD27220F791A00B70F20 /* Open Up The Club.mp3 in Resources */,
+				C97FFD21220F790800B70F20 /* Mark Jackson Llama.mp3 in Resources */,
+				C97FFD16220F78E500B70F20 /* Happy Birthday.mp3 in Resources */,
 				C97FFC9521FCD65F00B70F20 /* Assets.xcassets in Resources */,
-				C97FFC9321FCD65C00B70F20 /* Main.storyboard in Resources */,
+				C97FFD2B220F792300B70F20 /* You Don't Get The Show.mp3 in Resources */,
+				C97FFD24220F791400B70F20 /* Stat Of The Day.mp3 in Resources */,
+				C97FFD2D220F79B100B70F20 /* Stugotz Was Right.mp3 in Resources */,
+				C97FFD19220F78EC00B70F20 /* He's That Guy.mp3 in Resources */,
+				C97FFD25220F791400B70F20 /* Stephen A Yell.mp3 in Resources */,
+				C97FFCA021FD148B00B70F20 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,25 +201,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		C97FFC9121FCD65C00B70F20 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C97FFC9221FCD65C00B70F20 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		C97FFC9621FCD65F00B70F20 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C97FFC9721FCD65F00B70F20 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		C97FFC9A21FCD65F00B70F20 /* Debug */ = {
@@ -292,7 +333,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = nickpechie.SoundBoard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -310,7 +351,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = nickpechie.SoundBoard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
